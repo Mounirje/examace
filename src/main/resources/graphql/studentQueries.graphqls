@@ -1,0 +1,3 @@
+type StudentQueries{
+    getStudentByDateNaissance(date:String): Student
+}
